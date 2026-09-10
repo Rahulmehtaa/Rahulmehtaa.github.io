@@ -12,6 +12,6 @@ For a profile site, name the repository `<your-username>.github.io`. It also wor
 
 ## Updating
 
-Edit `index.html` to update resume details, `styles.css` to change the design, and `script.js` for navigation highlighting. Career statistics and dates reflect the supplied resume. The original resume and phone number are not included in the public package.
+Edit `index.html` to update resume details, `styles.css` to change the design, and `script.js` for navigation highlighting. Career statistics and dates reflect the supplied resume. The original resume is not included in the public package. The contact section includes the phone number authorized for publication.
 
 Open `index.html` in a browser for a local preview. All core content and links work without JavaScript.
